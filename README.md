@@ -8,4 +8,4 @@
 # Notes
 + Stub when built must be renamed from Stub.exe to raw.stub
 + Victim must have .Net 4.8 Framework unless you downgrade both solutions
-+ PHP version Must be 5.6
++ PHP version must be 5.6
